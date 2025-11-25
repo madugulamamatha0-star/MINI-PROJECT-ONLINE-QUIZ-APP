@@ -54,6 +54,8 @@ Enter your answer (1-4): 2
 Correct! ✔
 
 ======= QUIZ FINISHED =======
+
 Your Score: 5 / 5
+
 🔥 Excellent! Perfect score!
 
