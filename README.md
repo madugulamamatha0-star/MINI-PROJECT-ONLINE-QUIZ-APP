@@ -29,4 +29,31 @@ A simple and interactive console-based quiz application built in Java.Users answ
  ✨ Final result output
 
 ✨ Easy to expand with more questions
+
 ✨ Score tracking
+
+
+##SAMPLE OUTPUT
+
+======= WELCOME TO ONLINE QUIZ APP =======
+
+Which language is used for Android development?
+1. Python
+2. Java
+3. C++
+4. Swift
+Enter your answer (1-4): 2
+Correct! ✔
+
+Who invented Java programming?
+1. Dennis Ritchie
+2. James Gosling
+3. Guido van Rossum
+4. Bjarne Stroustrup
+Enter your answer (1-4): 2
+Correct! ✔
+
+======= QUIZ FINISHED =======
+Your Score: 5 / 5
+🔥 Excellent! Perfect score!
+
